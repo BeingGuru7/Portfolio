@@ -1,0 +1,37 @@
+<svg width="1200" height="900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="900" fill="#f7fafc"/>
+  
+  <!-- Border -->
+  <rect x="50" y="50" width="1100" height="800" fill="none" stroke="#3182ce" stroke-width="8" rx="10"/>
+  <rect x="70" y="70" width="1060" height="760" fill="none" stroke="#3182ce" stroke-width="2" rx="5"/>
+  
+  <!-- Header -->
+  <text x="600" y="180" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#2d3748" text-anchor="middle">
+    CERTIFICATE
+  </text>
+  <text x="600" y="230" font-family="Georgia, serif" font-size="32" fill="#4a5568" text-anchor="middle">
+    of Achievement
+  </text>
+  
+  <!-- Divider -->
+  <line x1="400" y1="270" x2="800" y2="270" stroke="#3182ce" stroke-width="2"/>
+  
+  <!-- Main text -->
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#2d3748" text-anchor="middle">
+    Fundamentals of
+  </text>
+  <text x="600" y="440" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#2d3748" text-anchor="middle">
+    Object-Oriented Programming
+  </text>
+  
+  <!-- Issuer -->
+  <text x="600" y="570" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#3182ce" text-anchor="middle">
+    NPTEL
+  </text>
+  
+  <!-- Footer -->
+  <text x="600" y="680" font-family="Arial, sans-serif" font-size="20" fill="#718096" text-anchor="middle">
+    This certifies successful completion of the course
+  </text>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="600" fill="#1a202c"/>
+  
+  <!-- Book/Education icon -->
+  <g opacity="0.3" transform="translate(600, 220)">
+    <rect x="-80" y="-60" width="160" height="120" fill="#4299e1" rx="8"/>
+    <line x1="-80" y1="-60" x2="-80" y2="60" stroke="white" stroke-width="6"/>
+    <line x1="0" y1="-60" x2="0" y2="60" stroke="white" stroke-width="4"/>
+    <path d="M -60 -20 L -60 0 M -40 -20 L -40 0 M 20 -20 L 20 0 M 40 -20 L 40 0" stroke="white" stroke-width="3"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="430" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">
+    LearnAble
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="480" font-family="Arial, sans-serif" font-size="24" fill="#a0aec0" text-anchor="middle">
+    AI-Powered Education Platform
+  </text>
+</svg>

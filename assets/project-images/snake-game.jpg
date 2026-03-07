@@ -1,0 +1,26 @@
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="600" fill="#2d3748"/>
+  
+  <!-- Game Grid Pattern -->
+  <g opacity="0.3">
+    <rect x="400" y="150" width="40" height="40" fill="#48bb78" rx="2"/>
+    <rect x="440" y="150" width="40" height="40" fill="#48bb78" rx="2"/>
+    <rect x="480" y="150" width="40" height="40" fill="#48bb78" rx="2"/>
+    <rect x="440" y="190" width="40" height="40" fill="#48bb78" rx="2"/>
+    <rect x="480" y="190" width="40" height="40" fill="#48bb78" rx="2"/>
+    
+    <!-- Apple/Food -->
+    <circle cx="760" cy="320" r="20" fill="#f56565"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="300" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">
+    Snake Game
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="24" fill="#a0aec0" text-anchor="middle">
+    Browser-based Classic Game
+  </text>
+</svg>
